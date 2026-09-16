@@ -1,0 +1,25 @@
+# Uso de IA a lo largo de la creacion del sistema
+
+## Herramientas Utilizadas
+
+| Herramienta | Uso |
+|---|---|
+| Gemini | Verificacion de casos y consultas tecnicas. |
+| Claude | Identificar, localizar y solucionar errores en el código. |  
+---
+## Prompts Claude  
+> - "Explicacion paso a paso para pasar el codigo de c++ sin errores hacia qt"
+> - "Ayuda con la sintaxis y distribucion de los archivos en qt"
+> - "Instalacion de qt"
+> - "Ayuda con subir los archivos a github sin que se agreguen las carpetas de ejecucion de qt(.gitignore)"
+> - "Correccion de errores"
+> - "Correr casos de prueba"
+## Prompts Gemini
+> - "Cómo calcular el vértice de una parábola en C."
+> - "Por qué mi cálculo de sqrt da error de compilación en C."
+
+## Observaciones y Limitaciones
+
+- Al usar ia podemos ir viendo en tiempo real los errores que proceden luego de la escritura del codigo.
+- Nos ayuda con la explicacion de algunos conceptos de github y a como se trabaja con el. 
+- No era capaz de entender la idea que le presentabamos y aveces se confundia con conceptos erroneos de github por ejemplo.
