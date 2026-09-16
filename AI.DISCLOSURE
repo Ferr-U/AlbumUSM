@@ -13,7 +13,8 @@
 > - "Instalacion de qt"
 > - "Ayuda con subir los archivos a github sin que se agreguen las carpetas de ejecucion de qt(.gitignore)"
 > - "Correccion de errores"
-> - "Correr casos de prueba"
+> - "Correr casos de prueba"  
+
 ## Prompts Gemini
 > - "Cómo calcular el vértice de una parábola en C."
 > - "Por qué mi cálculo de sqrt da error de compilación en C."
