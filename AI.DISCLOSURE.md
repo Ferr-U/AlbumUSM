@@ -8,7 +8,7 @@
 | Claude | Identificar, localizar y solucionar errores en el código. |  
 ---
 ## Prompts Claude  
-> - "Explicacion paso a paso para pasar el codigo de c++ sin errores hacia qt"
+> - "float n = (album_pegadas(a))/(a->total); me entrega el resultado truncado."
 > - "Ayuda con la sintaxis y distribucion de los archivos en qt"
 > - "Instalacion de qt"
 > - "Ayuda con subir los archivos a github sin que se agreguen las carpetas de ejecucion de qt(.gitignore)"
